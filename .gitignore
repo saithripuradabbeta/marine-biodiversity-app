@@ -1,0 +1,18 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rapp.history
+
+# Shiny deployment
+rsconnect/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private or large data
+*.csv
+!data/demo*.csv
